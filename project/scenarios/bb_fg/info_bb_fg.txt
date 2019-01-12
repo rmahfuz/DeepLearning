@@ -1,0 +1,84 @@
+784-100-100-10 NN architecture trained with 100 epochs with autoencoder-reduced dimension,attacked with Black Box FG attack with epsilon = 0. Accuracy = 97.26, adversarial success = 0
+784-100-100-10 NN architecture trained with 100 epochs with autoencoder-reduced dimension,attacked with Black Box FG attack with epsilon = 0.25. Accuracy = 46.29, adversarial success = 52.4059222702
+784-100-100-10 NN architecture trained with 100 epochs with autoencoder-reduced dimension,attacked with Black Box FG attack with epsilon = 0.5. Accuracy = 43.0, adversarial success = 55.7886078552
+784-100-100-10 NN architecture trained with 100 epochs with autoencoder-reduced dimension,attacked with Black Box FG attack with epsilon = 0.75. Accuracy = 38.35, adversarial success = 60.5696072383
+784-100-100-10 NN architecture trained with 100 epochs with autoencoder-reduced dimension,attacked with Black Box FG attack with epsilon = 1.0. Accuracy = 32.21, adversarial success = 66.8825827678
+784-100-100-10 NN architecture trained with 100 epochs with autoencoder-reduced dimension,attacked with Black Box FG attack with epsilon = 1.25. Accuracy = 25.79, adversarial success = 73.4834464322
+784-100-100-10 NN architecture trained with 100 epochs with autoencoder-reduced dimension,attacked with Black Box FG attack with epsilon = 1.5. Accuracy = 20.68, adversarial success = 78.7374048941
+784-100-100-10 NN architecture trained with 100 epochs with autoencoder-reduced dimension,attacked with Black Box FG attack with epsilon = 1.75. Accuracy = 16.29, adversarial success = 83.2510795805
+784-100-100-10 NN architecture trained with 100 epochs with autoencoder-reduced dimension,attacked with Black Box FG attack with epsilon = 2.0. Accuracy = 12.93, adversarial success = 86.7057371993
+784-100-100-10 NN architecture trained with 100 epochs with autoencoder-reduced dimension,attacked with Black Box FG attack with epsilon = 2.25. Accuracy = 10.11, adversarial success = 89.6051819864
+784-100-100-10 NN architecture trained with 100 epochs with autoencoder-reduced dimension,attacked with Black Box FG attack with epsilon = 2.5. Accuracy = 8.06, adversarial success = 91.7129344026
+
+331-100-100-10 NN architecture trained with 100 epochs with autoencoder-reduced dimension,attacked with Black Box FG attack with epsilon = 0. Accuracy = 96.59, adversarial success = 0
+331-100-100-10 NN architecture trained with 100 epochs with autoencoder-reduced dimension,attacked with Black Box FG attack with epsilon = 0.25. Accuracy = 46.55, adversarial success = 51.8066052386
+331-100-100-10 NN architecture trained with 100 epochs with autoencoder-reduced dimension,attacked with Black Box FG attack with epsilon = 0.5. Accuracy = 45.29, adversarial success = 53.1110881044
+331-100-100-10 NN architecture trained with 100 epochs with autoencoder-reduced dimension,attacked with Black Box FG attack with epsilon = 0.75. Accuracy = 43.41, adversarial success = 55.0574593643
+331-100-100-10 NN architecture trained with 100 epochs with autoencoder-reduced dimension,attacked with Black Box FG attack with epsilon = 1.0. Accuracy = 41.45, adversarial success = 57.0866549332
+331-100-100-10 NN architecture trained with 100 epochs with autoencoder-reduced dimension,attacked with Black Box FG attack with epsilon = 1.25. Accuracy = 38.85, adversarial success = 59.7784449736
+331-100-100-10 NN architecture trained with 100 epochs with autoencoder-reduced dimension,attacked with Black Box FG attack with epsilon = 1.5. Accuracy = 35.63, adversarial success = 63.1121234082
+331-100-100-10 NN architecture trained with 100 epochs with autoencoder-reduced dimension,attacked with Black Box FG attack with epsilon = 1.75. Accuracy = 32.42, adversarial success = 66.4354488042
+331-100-100-10 NN architecture trained with 100 epochs with autoencoder-reduced dimension,attacked with Black Box FG attack with epsilon = 2.0. Accuracy = 29.17, adversarial success = 69.8001863547
+331-100-100-10 NN architecture trained with 100 epochs with autoencoder-reduced dimension,attacked with Black Box FG attack with epsilon = 2.25. Accuracy = 25.85, adversarial success = 73.2373951755
+331-100-100-10 NN architecture trained with 100 epochs with autoencoder-reduced dimension,attacked with Black Box FG attack with epsilon = 2.5. Accuracy = 22.72, adversarial success = 76.4778962626
+
+100-100-100-10 NN architecture trained with 100 epochs with autoencoder-reduced dimension,attacked with Black Box FG attack with epsilon = 0. Accuracy = 97.77, adversarial success = 0
+100-100-100-10 NN architecture trained with 100 epochs with autoencoder-reduced dimension,attacked with Black Box FG attack with epsilon = 0.25. Accuracy = 48.16, adversarial success = 50.7415362586
+100-100-100-10 NN architecture trained with 100 epochs with autoencoder-reduced dimension,attacked with Black Box FG attack with epsilon = 0.5. Accuracy = 47.51, adversarial success = 51.4063618697
+100-100-100-10 NN architecture trained with 100 epochs with autoencoder-reduced dimension,attacked with Black Box FG attack with epsilon = 0.75. Accuracy = 46.7, adversarial success = 52.234836862
+100-100-100-10 NN architecture trained with 100 epochs with autoencoder-reduced dimension,attacked with Black Box FG attack with epsilon = 1.0. Accuracy = 45.55, adversarial success = 53.4110667894
+100-100-100-10 NN architecture trained with 100 epochs with autoencoder-reduced dimension,attacked with Black Box FG attack with epsilon = 1.25. Accuracy = 44.09, adversarial success = 54.9043673929
+100-100-100-10 NN architecture trained with 100 epochs with autoencoder-reduced dimension,attacked with Black Box FG attack with epsilon = 1.5. Accuracy = 42.48, adversarial success = 56.5510892912
+100-100-100-10 NN architecture trained with 100 epochs with autoencoder-reduced dimension,attacked with Black Box FG attack with epsilon = 1.75. Accuracy = 40.41, adversarial success = 58.6683031605
+100-100-100-10 NN architecture trained with 100 epochs with autoencoder-reduced dimension,attacked with Black Box FG attack with epsilon = 2.0. Accuracy = 38.19, adversarial success = 60.9389383246
+100-100-100-10 NN architecture trained with 100 epochs with autoencoder-reduced dimension,attacked with Black Box FG attack with epsilon = 2.25. Accuracy = 35.9, adversarial success = 63.2811700931
+100-100-100-10 NN architecture trained with 100 epochs with autoencoder-reduced dimension,attacked with Black Box FG attack with epsilon = 2.5. Accuracy = 33.18, adversarial success = 66.0632095735
+
+80-100-100-10 NN architecture trained with 100 epochs with autoencoder-reduced dimension,attacked with Black Box FG attack with epsilon = 0. Accuracy = 98.04, adversarial success = 0
+80-100-100-10 NN architecture trained with 100 epochs with autoencoder-reduced dimension,attacked with Black Box FG attack with epsilon = 0.25. Accuracy = 49.96, adversarial success = 49.0412076703
+80-100-100-10 NN architecture trained with 100 epochs with autoencoder-reduced dimension,attacked with Black Box FG attack with epsilon = 0.5. Accuracy = 49.56, adversarial success = 49.4492044064
+80-100-100-10 NN architecture trained with 100 epochs with autoencoder-reduced dimension,attacked with Black Box FG attack with epsilon = 0.75. Accuracy = 48.97, adversarial success = 50.050999592
+80-100-100-10 NN architecture trained with 100 epochs with autoencoder-reduced dimension,attacked with Black Box FG attack with epsilon = 1.0. Accuracy = 47.98, adversarial success = 51.0607915137
+80-100-100-10 NN architecture trained with 100 epochs with autoencoder-reduced dimension,attacked with Black Box FG attack with epsilon = 1.25. Accuracy = 46.82, adversarial success = 52.2439820481
+80-100-100-10 NN architecture trained with 100 epochs with autoencoder-reduced dimension,attacked with Black Box FG attack with epsilon = 1.5. Accuracy = 45.3, adversarial success = 53.794369645
+80-100-100-10 NN architecture trained with 100 epochs with autoencoder-reduced dimension,attacked with Black Box FG attack with epsilon = 1.75. Accuracy = 43.61, adversarial success = 55.5181558548
+80-100-100-10 NN architecture trained with 100 epochs with autoencoder-reduced dimension,attacked with Black Box FG attack with epsilon = 2.0. Accuracy = 41.31, adversarial success = 57.8641370869
+80-100-100-10 NN architecture trained with 100 epochs with autoencoder-reduced dimension,attacked with Black Box FG attack with epsilon = 2.25. Accuracy = 38.65, adversarial success = 60.5773153815
+80-100-100-10 NN architecture trained with 100 epochs with autoencoder-reduced dimension,attacked with Black Box FG attack with epsilon = 2.5. Accuracy = 36.09, adversarial success = 63.188494492
+
+60-100-100-10 NN architecture trained with 100 epochs with autoencoder-reduced dimension,attacked with Black Box FG attack with epsilon = 0. Accuracy = 97.84, adversarial success = 0
+60-100-100-10 NN architecture trained with 100 epochs with autoencoder-reduced dimension,attacked with Black Box FG attack with epsilon = 0.25. Accuracy = 49.14, adversarial success = 49.7751430908
+60-100-100-10 NN architecture trained with 100 epochs with autoencoder-reduced dimension,attacked with Black Box FG attack with epsilon = 0.5. Accuracy = 48.84, adversarial success = 50.0817661488
+60-100-100-10 NN architecture trained with 100 epochs with autoencoder-reduced dimension,attacked with Black Box FG attack with epsilon = 0.75. Accuracy = 48.24, adversarial success = 50.6950122649
+60-100-100-10 NN architecture trained with 100 epochs with autoencoder-reduced dimension,attacked with Black Box FG attack with epsilon = 1.0. Accuracy = 47.38, adversarial success = 51.5739983647
+60-100-100-10 NN architecture trained with 100 epochs with autoencoder-reduced dimension,attacked with Black Box FG attack with epsilon = 1.25. Accuracy = 46.19, adversarial success = 52.7902698283
+60-100-100-10 NN architecture trained with 100 epochs with autoencoder-reduced dimension,attacked with Black Box FG attack with epsilon = 1.5. Accuracy = 44.77, adversarial success = 54.2416189697
+60-100-100-10 NN architecture trained with 100 epochs with autoencoder-reduced dimension,attacked with Black Box FG attack with epsilon = 1.75. Accuracy = 43.1, adversarial success = 55.9484873262
+60-100-100-10 NN architecture trained with 100 epochs with autoencoder-reduced dimension,attacked with Black Box FG attack with epsilon = 2.0. Accuracy = 40.95, adversarial success = 58.1459525756
+60-100-100-10 NN architecture trained with 100 epochs with autoencoder-reduced dimension,attacked with Black Box FG attack with epsilon = 2.25. Accuracy = 38.75, adversarial success = 60.394521668
+60-100-100-10 NN architecture trained with 100 epochs with autoencoder-reduced dimension,attacked with Black Box FG attack with epsilon = 2.5. Accuracy = 36.46, adversarial success = 62.7350776778
+
+40-100-100-10 NN architecture trained with 100 epochs with autoencoder-reduced dimension,attacked with Black Box FG attack with epsilon = 0. Accuracy = 97.65, adversarial success = 0
+40-100-100-10 NN architecture trained with 100 epochs with autoencoder-reduced dimension,attacked with Black Box FG attack with epsilon = 0.25. Accuracy = 48.6, adversarial success = 50.2304147465
+40-100-100-10 NN architecture trained with 100 epochs with autoencoder-reduced dimension,attacked with Black Box FG attack with epsilon = 0.5. Accuracy = 48.17, adversarial success = 50.6707629288
+40-100-100-10 NN architecture trained with 100 epochs with autoencoder-reduced dimension,attacked with Black Box FG attack with epsilon = 0.75. Accuracy = 47.39, adversarial success = 51.4695340502
+40-100-100-10 NN architecture trained with 100 epochs with autoencoder-reduced dimension,attacked with Black Box FG attack with epsilon = 1.0. Accuracy = 46.51, adversarial success = 52.3707117256
+40-100-100-10 NN architecture trained with 100 epochs with autoencoder-reduced dimension,attacked with Black Box FG attack with epsilon = 1.25. Accuracy = 45.07, adversarial success = 53.8453661034
+40-100-100-10 NN architecture trained with 100 epochs with autoencoder-reduced dimension,attacked with Black Box FG attack with epsilon = 1.5. Accuracy = 43.57, adversarial success = 55.3814644137
+40-100-100-10 NN architecture trained with 100 epochs with autoencoder-reduced dimension,attacked with Black Box FG attack with epsilon = 1.75. Accuracy = 42.24, adversarial success = 56.7434715822
+40-100-100-10 NN architecture trained with 100 epochs with autoencoder-reduced dimension,attacked with Black Box FG attack with epsilon = 2.0. Accuracy = 40.45, adversarial success = 58.5765488991
+40-100-100-10 NN architecture trained with 100 epochs with autoencoder-reduced dimension,attacked with Black Box FG attack with epsilon = 2.25. Accuracy = 38.22, adversarial success = 60.8602150538
+40-100-100-10 NN architecture trained with 100 epochs with autoencoder-reduced dimension,attacked with Black Box FG attack with epsilon = 2.5. Accuracy = 35.86, adversarial success = 63.2770097286
+
+20-100-100-10 NN architecture trained with 100 epochs with autoencoder-reduced dimension,attacked with Black Box FG attack with epsilon = 0. Accuracy = 97.01, adversarial success = 0
+20-100-100-10 NN architecture trained with 100 epochs with autoencoder-reduced dimension,attacked with Black Box FG attack with epsilon = 0.25. Accuracy = 48.36, adversarial success = 50.1494691269
+20-100-100-10 NN architecture trained with 100 epochs with autoencoder-reduced dimension,attacked with Black Box FG attack with epsilon = 0.5. Accuracy = 47.52, adversarial success = 51.0153592413
+20-100-100-10 NN architecture trained with 100 epochs with autoencoder-reduced dimension,attacked with Black Box FG attack with epsilon = 0.75. Accuracy = 46.39, adversarial success = 52.1801876095
+20-100-100-10 NN architecture trained with 100 epochs with autoencoder-reduced dimension,attacked with Black Box FG attack with epsilon = 1.0. Accuracy = 44.93, adversarial success = 53.6851870941
+20-100-100-10 NN architecture trained with 100 epochs with autoencoder-reduced dimension,attacked with Black Box FG attack with epsilon = 1.25. Accuracy = 43.3, adversarial success = 55.3654262447
+20-100-100-10 NN architecture trained with 100 epochs with autoencoder-reduced dimension,attacked with Black Box FG attack with epsilon = 1.5. Accuracy = 41.2, adversarial success = 57.5301515308
+20-100-100-10 NN architecture trained with 100 epochs with autoencoder-reduced dimension,attacked with Black Box FG attack with epsilon = 1.75. Accuracy = 38.81, adversarial success = 59.9938150706
+20-100-100-10 NN architecture trained with 100 epochs with autoencoder-reduced dimension,attacked with Black Box FG attack with epsilon = 2.0. Accuracy = 36.31, adversarial success = 62.5708689826
+20-100-100-10 NN architecture trained with 100 epochs with autoencoder-reduced dimension,attacked with Black Box FG attack with epsilon = 2.25. Accuracy = 34.07, adversarial success = 64.8799092877
+20-100-100-10 NN architecture trained with 100 epochs with autoencoder-reduced dimension,attacked with Black Box FG attack with epsilon = 2.5. Accuracy = 31.52, adversarial success = 67.5085042779
+
