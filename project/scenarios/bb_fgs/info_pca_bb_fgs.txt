@@ -1,0 +1,84 @@
+784-100-100-10 NN architecture with PCA-reduced dimension,attacked with Black Box FGS attack with epsilon = 0. Accuracy = 97.91, adversarial success = 0
+784-100-100-10 NN architecture with PCA-reduced dimension,attacked with Black Box FGS attack with epsilon = 0.05. Accuracy = 71.55, adversarial success = 26.9226840976
+784-100-100-10 NN architecture with PCA-reduced dimension,attacked with Black Box FGS attack with epsilon = 0.1. Accuracy = 33.55, adversarial success = 65.7338371974
+784-100-100-10 NN architecture with PCA-reduced dimension,attacked with Black Box FGS attack with epsilon = 0.15. Accuracy = 14.77, adversarial success = 84.9147175978
+784-100-100-10 NN architecture with PCA-reduced dimension,attacked with Black Box FGS attack with epsilon = 0.2. Accuracy = 6.2, adversarial success = 93.6676539679
+784-100-100-10 NN architecture with PCA-reduced dimension,attacked with Black Box FGS attack with epsilon = 0.25. Accuracy = 3.24, adversarial success = 96.6908385252
+784-100-100-10 NN architecture with PCA-reduced dimension,attacked with Black Box FGS attack with epsilon = 0.3. Accuracy = 2.11, adversarial success = 97.8449596568
+784-100-100-10 NN architecture with PCA-reduced dimension,attacked with Black Box FGS attack with epsilon = 0.35. Accuracy = 1.72, adversarial success = 98.2432846492
+784-100-100-10 NN architecture with PCA-reduced dimension,attacked with Black Box FGS attack with epsilon = 0.4. Accuracy = 1.54, adversarial success = 98.4271269533
+784-100-100-10 NN architecture with PCA-reduced dimension,attacked with Black Box FGS attack with epsilon = 0.45. Accuracy = 1.43, adversarial success = 98.5394750281
+784-100-100-10 NN architecture with PCA-reduced dimension,attacked with Black Box FGS attack with epsilon = 0.5. Accuracy = 1.4, adversarial success = 98.5701154121
+
+331-100-100-10 NN architecture with PCA-reduced dimension,attacked with Black Box FGS attack with epsilon = 0. Accuracy = 97.25, adversarial success = 0
+331-100-100-10 NN architecture with PCA-reduced dimension,attacked with Black Box FGS attack with epsilon = 0.05. Accuracy = 90.25, adversarial success = 7.19794344473
+331-100-100-10 NN architecture with PCA-reduced dimension,attacked with Black Box FGS attack with epsilon = 0.1. Accuracy = 68.89, adversarial success = 29.1619537275
+331-100-100-10 NN architecture with PCA-reduced dimension,attacked with Black Box FGS attack with epsilon = 0.15. Accuracy = 43.76, adversarial success = 55.0025706941
+331-100-100-10 NN architecture with PCA-reduced dimension,attacked with Black Box FGS attack with epsilon = 0.2. Accuracy = 26.18, adversarial success = 73.0796915167
+331-100-100-10 NN architecture with PCA-reduced dimension,attacked with Black Box FGS attack with epsilon = 0.25. Accuracy = 15.73, adversarial success = 83.8251928021
+331-100-100-10 NN architecture with PCA-reduced dimension,attacked with Black Box FGS attack with epsilon = 0.3. Accuracy = 9.96, adversarial success = 89.7583547558
+331-100-100-10 NN architecture with PCA-reduced dimension,attacked with Black Box FGS attack with epsilon = 0.35. Accuracy = 5.91, adversarial success = 93.9228791774
+331-100-100-10 NN architecture with PCA-reduced dimension,attacked with Black Box FGS attack with epsilon = 0.4. Accuracy = 3.93, adversarial success = 95.9588688946
+331-100-100-10 NN architecture with PCA-reduced dimension,attacked with Black Box FGS attack with epsilon = 0.45. Accuracy = 3.48, adversarial success = 96.4215938303
+331-100-100-10 NN architecture with PCA-reduced dimension,attacked with Black Box FGS attack with epsilon = 0.5. Accuracy = 2.51, adversarial success = 97.4190231362
+
+100-100-100-10 NN architecture with PCA-reduced dimension,attacked with Black Box FGS attack with epsilon = 0. Accuracy = 97.47, adversarial success = 0
+100-100-100-10 NN architecture with PCA-reduced dimension,attacked with Black Box FGS attack with epsilon = 0.05. Accuracy = 94.47, adversarial success = 3.07787011388
+100-100-100-10 NN architecture with PCA-reduced dimension,attacked with Black Box FGS attack with epsilon = 0.1. Accuracy = 85.8, adversarial success = 11.972914743
+100-100-100-10 NN architecture with PCA-reduced dimension,attacked with Black Box FGS attack with epsilon = 0.15. Accuracy = 68.95, adversarial success = 29.260285216
+100-100-100-10 NN architecture with PCA-reduced dimension,attacked with Black Box FGS attack with epsilon = 0.2. Accuracy = 50.04, adversarial success = 48.6611265005
+100-100-100-10 NN architecture with PCA-reduced dimension,attacked with Black Box FGS attack with epsilon = 0.25. Accuracy = 34.73, adversarial success = 64.3685236483
+100-100-100-10 NN architecture with PCA-reduced dimension,attacked with Black Box FGS attack with epsilon = 0.3. Accuracy = 26.18, adversarial success = 73.1404534729
+100-100-100-10 NN architecture with PCA-reduced dimension,attacked with Black Box FGS attack with epsilon = 0.35. Accuracy = 17.39, adversarial success = 82.1586129065
+100-100-100-10 NN architecture with PCA-reduced dimension,attacked with Black Box FGS attack with epsilon = 0.4. Accuracy = 13.26, adversarial success = 86.3958140966
+100-100-100-10 NN architecture with PCA-reduced dimension,attacked with Black Box FGS attack with epsilon = 0.45. Accuracy = 9.52, adversarial success = 90.232892172
+100-100-100-10 NN architecture with PCA-reduced dimension,attacked with Black Box FGS attack with epsilon = 0.5. Accuracy = 6.85, adversarial success = 92.9721965733
+
+80-100-100-10 NN architecture with PCA-reduced dimension,attacked with Black Box FGS attack with epsilon = 0. Accuracy = 97.49, adversarial success = 0
+80-100-100-10 NN architecture with PCA-reduced dimension,attacked with Black Box FGS attack with epsilon = 0.05. Accuracy = 94.86, adversarial success = 2.69771258591
+80-100-100-10 NN architecture with PCA-reduced dimension,attacked with Black Box FGS attack with epsilon = 0.1. Accuracy = 86.92, adversarial success = 10.8421376551
+80-100-100-10 NN architecture with PCA-reduced dimension,attacked with Black Box FGS attack with epsilon = 0.15. Accuracy = 70.88, adversarial success = 27.2951071905
+80-100-100-10 NN architecture with PCA-reduced dimension,attacked with Black Box FGS attack with epsilon = 0.2. Accuracy = 53.54, adversarial success = 45.0815468253
+80-100-100-10 NN architecture with PCA-reduced dimension,attacked with Black Box FGS attack with epsilon = 0.25. Accuracy = 37.55, adversarial success = 61.4832290491
+80-100-100-10 NN architecture with PCA-reduced dimension,attacked with Black Box FGS attack with epsilon = 0.3. Accuracy = 27.34, adversarial success = 71.9560980613
+80-100-100-10 NN architecture with PCA-reduced dimension,attacked with Black Box FGS attack with epsilon = 0.35. Accuracy = 19.3, adversarial success = 80.2030977536
+80-100-100-10 NN architecture with PCA-reduced dimension,attacked with Black Box FGS attack with epsilon = 0.4. Accuracy = 15.4, adversarial success = 84.2035080521
+80-100-100-10 NN architecture with PCA-reduced dimension,attacked with Black Box FGS attack with epsilon = 0.45. Accuracy = 10.17, adversarial success = 89.568160837
+80-100-100-10 NN architecture with PCA-reduced dimension,attacked with Black Box FGS attack with epsilon = 0.5. Accuracy = 7.94, adversarial success = 91.8555749308
+
+60-100-100-10 NN architecture with PCA-reduced dimension,attacked with Black Box FGS attack with epsilon = 0. Accuracy = 97.57, adversarial success = 0
+60-100-100-10 NN architecture with PCA-reduced dimension,attacked with Black Box FGS attack with epsilon = 0.05. Accuracy = 95.61, adversarial success = 2.00881418469
+60-100-100-10 NN architecture with PCA-reduced dimension,attacked with Black Box FGS attack with epsilon = 0.1. Accuracy = 89.09, adversarial success = 8.69119606436
+60-100-100-10 NN architecture with PCA-reduced dimension,attacked with Black Box FGS attack with epsilon = 0.15. Accuracy = 74.03, adversarial success = 24.1262683202
+60-100-100-10 NN architecture with PCA-reduced dimension,attacked with Black Box FGS attack with epsilon = 0.2. Accuracy = 56.56, adversarial success = 42.031362099
+60-100-100-10 NN architecture with PCA-reduced dimension,attacked with Black Box FGS attack with epsilon = 0.25. Accuracy = 41.25, adversarial success = 57.7226606539
+60-100-100-10 NN architecture with PCA-reduced dimension,attacked with Black Box FGS attack with epsilon = 0.3. Accuracy = 30.7, adversarial success = 68.5354104745
+60-100-100-10 NN architecture with PCA-reduced dimension,attacked with Black Box FGS attack with epsilon = 0.35. Accuracy = 22.29, adversarial success = 77.1548631752
+60-100-100-10 NN architecture with PCA-reduced dimension,attacked with Black Box FGS attack with epsilon = 0.4. Accuracy = 15.86, adversarial success = 83.7450035872
+60-100-100-10 NN architecture with PCA-reduced dimension,attacked with Black Box FGS attack with epsilon = 0.45. Accuracy = 11.29, adversarial success = 88.4288203341
+60-100-100-10 NN architecture with PCA-reduced dimension,attacked with Black Box FGS attack with epsilon = 0.5. Accuracy = 7.79, adversarial success = 92.0159885211
+
+40-100-100-10 NN architecture with PCA-reduced dimension,attacked with Black Box FGS attack with epsilon = 0. Accuracy = 97.45, adversarial success = 0
+40-100-100-10 NN architecture with PCA-reduced dimension,attacked with Black Box FGS attack with epsilon = 0.05. Accuracy = 95.9, adversarial success = 1.59055926116
+40-100-100-10 NN architecture with PCA-reduced dimension,attacked with Black Box FGS attack with epsilon = 0.1. Accuracy = 89.46, adversarial success = 8.19907644946
+40-100-100-10 NN architecture with PCA-reduced dimension,attacked with Black Box FGS attack with epsilon = 0.15. Accuracy = 75.96, adversarial success = 22.0523345305
+40-100-100-10 NN architecture with PCA-reduced dimension,attacked with Black Box FGS attack with epsilon = 0.2. Accuracy = 60.11, adversarial success = 38.317085685
+40-100-100-10 NN architecture with PCA-reduced dimension,attacked with Black Box FGS attack with epsilon = 0.25. Accuracy = 46.25, adversarial success = 52.5397639815
+40-100-100-10 NN architecture with PCA-reduced dimension,attacked with Black Box FGS attack with epsilon = 0.3. Accuracy = 34.39, adversarial success = 64.7101077476
+40-100-100-10 NN architecture with PCA-reduced dimension,attacked with Black Box FGS attack with epsilon = 0.35. Accuracy = 24.86, adversarial success = 74.4894817855
+40-100-100-10 NN architecture with PCA-reduced dimension,attacked with Black Box FGS attack with epsilon = 0.4. Accuracy = 18.1, adversarial success = 81.4263724987
+40-100-100-10 NN architecture with PCA-reduced dimension,attacked with Black Box FGS attack with epsilon = 0.45. Accuracy = 13.39, adversarial success = 86.2596203181
+40-100-100-10 NN architecture with PCA-reduced dimension,attacked with Black Box FGS attack with epsilon = 0.5. Accuracy = 9.86, adversarial success = 89.8819907645
+
+20-100-100-10 NN architecture with PCA-reduced dimension,attacked with Black Box FGS attack with epsilon = 0. Accuracy = 97.24, adversarial success = 0
+20-100-100-10 NN architecture with PCA-reduced dimension,attacked with Black Box FGS attack with epsilon = 0.05. Accuracy = 95.32, adversarial success = 1.97449609214
+20-100-100-10 NN architecture with PCA-reduced dimension,attacked with Black Box FGS attack with epsilon = 0.1. Accuracy = 90.83, adversarial success = 6.59193747429
+20-100-100-10 NN architecture with PCA-reduced dimension,attacked with Black Box FGS attack with epsilon = 0.15. Accuracy = 81.49, adversarial success = 16.1970382559
+20-100-100-10 NN architecture with PCA-reduced dimension,attacked with Black Box FGS attack with epsilon = 0.2. Accuracy = 69.22, adversarial success = 28.8153023447
+20-100-100-10 NN architecture with PCA-reduced dimension,attacked with Black Box FGS attack with epsilon = 0.25. Accuracy = 55.76, adversarial success = 42.6573426573
+20-100-100-10 NN architecture with PCA-reduced dimension,attacked with Black Box FGS attack with epsilon = 0.3. Accuracy = 42.37, adversarial success = 56.4273961333
+20-100-100-10 NN architecture with PCA-reduced dimension,attacked with Black Box FGS attack with epsilon = 0.35. Accuracy = 31.48, adversarial success = 67.6264911559
+20-100-100-10 NN architecture with PCA-reduced dimension,attacked with Black Box FGS attack with epsilon = 0.4. Accuracy = 23.0, adversarial success = 76.3471822295
+20-100-100-10 NN architecture with PCA-reduced dimension,attacked with Black Box FGS attack with epsilon = 0.45. Accuracy = 16.95, adversarial success = 82.5689016865
+20-100-100-10 NN architecture with PCA-reduced dimension,attacked with Black Box FGS attack with epsilon = 0.5. Accuracy = 12.96, adversarial success = 86.672151378
+
